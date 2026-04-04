@@ -1,5 +1,12 @@
 # Star Classification using Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+---
+
 ## Project Overview
 This project focuses on predicting the type of stars using machine learning models based on their physical characteristics, including Temperature, Luminosity, Radius, Absolute Magnitude, Color, and Spectral Class.
 
@@ -80,12 +87,14 @@ Although Decision Tree achieved perfect accuracy, it is prone to overfitting and
 
 ## Technologies Used
 
-- Python  
-- pandas  
-- numpy  
-- scikit-learn  
-- matplotlib  
-- seaborn  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ---
 
@@ -97,6 +106,34 @@ Although Decision Tree achieved perfect accuracy, it is prone to overfitting and
    pip install -r requirements.txt
    ```
 3. Open the notebook and run all cells  
+
+---
+
+## Contributing
+
+Contributions are welcome and appreciated.
+
+If you would like to improve this project:
+- Fork the repository  
+- Create a new branch  
+- Make your changes  
+- Submit a Pull Request  
+
+Please ensure your code is clean and well-documented.
+
+---
+
+## Support
+
+If you find this project useful, consider giving it a star.
+
+Your support helps improve visibility and encourages further development.
+
+---
+
+## Issues
+
+If you encounter any bugs or have suggestions, feel free to open an issue in the repository.
 
 ---
 
