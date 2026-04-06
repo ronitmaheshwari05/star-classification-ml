@@ -23,7 +23,7 @@ The dataset contains astrophysical properties of stars with the target variable 
 - 2 – White Dwarf  
 - 3 – Main Sequence  
 - 4 – Super Giants  
-- 5 – Hyper Giants  
+- 5 – Hyper Giants 
 
 ---
 
