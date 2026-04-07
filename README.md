@@ -117,7 +117,7 @@ If you would like to improve this project:
 - Fork the repository  
 - Create a new branch  
 - Make your changes  
-- Submit a Pull Request  
+- Submit a Pull Request
 
 Please ensure your code is clean and well-documented.
 
