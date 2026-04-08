@@ -1,4 +1,5 @@
-# Star Classification using Machine Learning
+# AstroML: Machine Learning Framework for Stellar Classification
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
